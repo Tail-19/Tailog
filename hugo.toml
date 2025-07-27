@@ -1,0 +1,7 @@
+baseURL = 'https://tailog.org/'
+languageCode = 'en-us'
+title = 'Tailog'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

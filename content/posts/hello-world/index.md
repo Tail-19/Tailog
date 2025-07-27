@@ -15,7 +15,6 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
 这是我的第一条博客，现在想想我第一次用hexo做博客已经是三年前的事情了，时间过得好快，当时那个博客并没有坚持下来，因为其实并不理解很多东西。比如为什么存blog的文件夹需要命名为content？如果文件夹有命名规范，那文件是不是也要尊从某种规范？仓库名是不是必须命名为username？

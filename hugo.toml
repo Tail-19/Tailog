@@ -2,6 +2,8 @@
 languageCode = 'en-us'
 title = 'Tailog'
 
+theme = "hugo-theme-stack"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

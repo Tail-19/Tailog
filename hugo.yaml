@@ -1,8 +1,7 @@
-baseURL : 'https://tail-19.github.io/Tailog/'
-languageCode : 'en-us'
-title : 'Tailog'
-
-theme = 'hugo-theme-stack'
+baseURL : https://tail-19.github.io/Tailog/
+languageCode : en-us
+title : Tailog
+theme : hugo-theme-stack
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,7 +14,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Tailog
+        title: Example Site
         weight: 1
         params:
             sidebar:

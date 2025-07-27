@@ -1,4 +1,4 @@
-baseURL = 'https://tailog.org/'
+# baseURL = 'https://tailog.org/'
 languageCode = 'en-us'
 title = 'Tailog'
 
